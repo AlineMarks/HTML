@@ -1,0 +1,27 @@
+body {
+    margin: 0px;
+  }
+  
+  .background-image {
+    background-image: url("./fundo.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    position: fixed;
+    top: 0;
+    left: 0;
+   left: 16%;
+   right: 16%;
+    height: 100%;
+    z-index: -1;
+  }
+  
+  .centered-image {
+    display: block;
+    margin: auto;
+    position: absolute;
+    top: 0;
+    left: 16%;
+
+  }
+  

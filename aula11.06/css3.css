@@ -1,0 +1,7 @@
+* {margin: 0px; padding: 0px;}
+h1 {color: rosybrown;background-color: greenyellow;}
+
+p {font-size: 32px; display: inline-block;}
+
+.tamanho {height: 150px;width: 150px}
+.comportamento {display: inline-block;}

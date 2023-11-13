@@ -1,0 +1,22 @@
+*{padding: 0; margin: 0;}
+
+body { background-color: #DFE0DF; font-size: 1em; font-family: 'Franklin Gothic Medium', Arial, sans-serif;}
+
+#area__cabecalho {background-color: #F7B600; padding: 15px; text-align: center;}
+
+.padding__cabecalho {padding: 10px;}
+
+#area__principal { width: 920px; margin: 0px auto; padding: 15px;}
+
+#area__postagens { width: 660px; float: left;}
+
+#area__lateral { width: 240px; float: right;}
+
+.postagem {padding: 20px; margin-bottom: 20px; background-color: #DFE0DF;
+}
+
+.conteudo-lateral {background-color: #DFE0DF; padding: 10px; margin-bottom: 20px;}
+
+.postagem-lateral{font-size: 0.8em; padding: 10px; border-bottom: 1px dotted #594317;}
+
+#area-rodape {clear: both; text-align: center; padding: 15px; background-color: #594317; color: #DFE0DF;}

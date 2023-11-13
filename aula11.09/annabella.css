@@ -1,0 +1,19 @@
+* {margin: 0px; padding: 0px;}
+html{background-image: url(./images/fundo.png);}
+
+#cabecalho{width: 98%; height: 50px; background-color: #8F8FBD;  padding: 10px 0px 0px 30px;}
+
+#titulo01{display: inline-block;font-family: 'Alex Brush', cursive;}
+
+#navegacao{display: inline-block; margin-left: 55%; text-transform: capitalize;}
+
+#cabecalho_img{background-image: url(./images/capa.png);background-size: cover; width: 100%; height: 700px;}
+
+main h2 {text-align: center; width: 100%; height: 50px; font-family: Arial, Helvetica, sans-serif; margin-top: 10px;}
+
+main p {margin: 0px auto; width:70%; height: 80px;text-align: justify; }
+
+footer > h4 {margin: 10px 0px; text-align: center; text-transform:uppercase;}
+
+.link {text-decoration: none; font-family: Arial, Helvetica, sans-serif; color: rgb(14, 13, 14);}
+.link:hover {text-decoration: none; font-family: Arial, Helvetica, sans-serif; color: #3b3939; background-color: #D9D9F3;}
