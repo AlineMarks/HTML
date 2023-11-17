@@ -1,0 +1,18 @@
+* {margin: 0px; padding: 0px;}
+
+
+.container-body {display: flex; ; flex-direction: column; align-items: center; font-family: sans-serif; }
+
+.container-header { width: 80%; height: 100vh; color: #ffffff; background: url(./images/imagem1.jpeg) no-repeat;background-size: cover;}
+
+.container-nav {display: flex; justify-content:space-between; align-items: center; background-color: #212529; height:80px; padding: 0px 15px;}
+
+.container-ul {display: flex; }
+
+.container-main {width: 80%; }
+
+.container-section {display: flex; justify-content: space-between;}
+
+.container-product-father {display: flex;}
+
+.container-product {display: flex; flex-direction: column; width: 370px;}
