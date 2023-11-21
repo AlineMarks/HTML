@@ -1,0 +1,15 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+.div-border {
+    border: 3px solid;
+
+}
+.container-main {
+    display: grid;
+    grid-template-columns: 20vw 60vw 20vw;
+    grid-template-rows: 20vw 70vw 10vw;
+    grid-row-gap: 10px;
+    grid-column-gap: 10px;
+}
