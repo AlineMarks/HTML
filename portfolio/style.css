@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Alex+Brush&family=Krona+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Krona+One&family=Montserrat:wght@400;600&display=swap');
+
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing:border-box;
+}
+body {
+    background-color: black;
+    color: white;
+    height: 100vh;
+}
+strong {
+    color: rgb(133, 87, 177);
+}
+
+.apresentacao {
+    margin:10% 15%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    height: 400px; 
+    
+}
+.apresentacao__conteudo {
+    width: 615px;
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+}
+
+.apresentacao__conteudo__titulo {
+    font-size: 36px;
+    font-family: 'Krona One', sans-serif;
+}
+.apresentacao__conteudo__texto {
+    font-size: 26px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.apresentacao__links {
+    display: flex;
+    justify-content: space-between;
+}
+img {
+    max-width: 90%; /* A imagem não ultrapassará a largura do contêiner */
+    max-height: 90%; /* A imagem não ultrapassará a altura do contêiner */
+}
+.apresentacao__links__link {
+    background-color: #22d4fd;
+    width: 250px;
+    text-align: center;
+    border-radius: 15px;
+    font-size: 24px;
+    font-weight: 600;
+    padding: 21.5px 0px;
+    text-decoration: none;
+    color: black;
+    font-family: 'Montserrat', sans-serif;
+}

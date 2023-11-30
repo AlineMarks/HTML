@@ -1,0 +1,6 @@
+Revisão para prova - CONTEUDO:
+* faça um layout em flex e em grid
+* parallax - tres imagens 
+*
+*
+*
