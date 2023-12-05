@@ -23,8 +23,8 @@
 }
 
 .grow{
-    width: 200px;
-    height: 200px;
+    width: 250px;
+    height: 250px;
     margin: 30px auto;
     background-color: #d69a9a;
     text-align: center;
@@ -39,8 +39,8 @@
 }
 
 .shrink{
-    width: 200px;
-    height: 200px;
+    width: 250px;
+    height: 250px;
     margin: 30px auto;
     background-color: #b97a7a;
     text-align: center;
@@ -55,8 +55,8 @@
 }
 
 .circle{
-    width: 200px;
-    height: 200px;
+    width: 250px;
+    height: 250px;
     margin: 30px auto;
     background-color: #d38888;
     text-align: center;
