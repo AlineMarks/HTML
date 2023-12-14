@@ -1,0 +1,18 @@
+.h50 {
+    height: 50px;
+}
+.h100 {
+    height: 100px;
+}
+.h400 {
+    height: 400px;
+}
+.col-3 {
+    height: 50px;
+    background-color: rgb(236, 166, 178);
+    border: 1px solid black;
+}
+.borderBlack {
+    border: 1px solid black;
+    height: 200px;
+}

@@ -1,0 +1,68 @@
+/* * {
+    box-sizing: border-box;
+}
+
+.container {
+    text-align: center;
+}
+
+.largura {
+    max-width: 500px;
+    height: 300px;
+    border: 2px dotted black;
+}
+.row {
+    height: 100%;
+}
+
+.col-6, .col-3 {
+    height: 25px;
+    margin: 0px;
+    
+}
+
+header {
+    text-align: center;
+}
+
+.bi.bi-bell , .bi.bi-twitter{
+    font-size: 40px;
+    color: rgb(128, 0, 0);
+    margin: 2px;
+} */
+
+body{
+    width: 100vw;
+    height: 100vh;
+}
+
+main {
+    height: 600px;
+    
+}
+
+footer{
+    background-color: rgb(51, 50, 50);
+    
+}
+
+.container-fluid {
+    background-color: rgb(51, 50, 50);
+
+    width: 100%;
+}
+
+
+
+.col {
+    text-decoration: none;
+}
+
+.largura {
+    max-width: 600px;
+    margin: 0px auto;
+}
+
+strong {
+    color: orangered;
+}
